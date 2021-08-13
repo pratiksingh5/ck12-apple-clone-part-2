@@ -15,38 +15,38 @@ function Header() {
             >
               ☰
             </button>
-            <a class="navbar-brand mx-auto" 
+            <a class="navbar-brand mx-auto" href="https://www.apple.com/"
               ><i class="ri-apple-fill"></i></a>
   
             <div class="navbar-collapse collapse">
               <ul class="navbar-nav nav-justified w-100 nav-fill">
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" >Mac</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">Mac</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger">iphone</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">iphone</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger">ipad</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">ipad</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" >watch</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">watch</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" >tv</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">tv</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" >Music</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">Music</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" >Support</a>
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/">Support</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" 
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/"
                     ><i class="ri-search-line"></i></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger"
+                  <a class="nav-link js-scroll-trigger" href="https://www.apple.com/"
                     ><i class="ri-handbag-line"></i></a>
                 </li>
               </ul>
